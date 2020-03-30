@@ -12,7 +12,8 @@ clear
 # Start JoyToKey
 # https://joytokey.net/en/
 "=== Starting JoyToKey ==="
-Start-Process "C:\Games\JoyToKey\JoyToKey.exe"
+# I don't use JTK. Looks good otherwise.
+#Start-Process "C:\Games\JoyToKey\JoyToKey.exe"
 
 # Start GameGlass 
 # https://gameglass.gg/ 
